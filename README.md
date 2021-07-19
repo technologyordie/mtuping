@@ -9,8 +9,10 @@ GRE tunnel interface and then again against the remote GRE tunnel
 interface.  As you can see the tunnel overhead reduces the MTU to
 the far end of the tunnel
 
+```
 User@MacBook-Pro Desktop % ./pingmtu.sh 10.1.1.5
 Max MTU size: 1500
 
 User@MacBook-Pro Desktop % ./pingmtu.sh 10.1.1.6
 Max MTU size: 1476
+```
