@@ -11,5 +11,6 @@ the far end of the tunnel
 
 User@MacBook-Pro Desktop % ./pingmtu.sh 10.1.1.5
 Max MTU size: 1500
+
 User@MacBook-Pro Desktop % ./pingmtu.sh 10.1.1.6
 Max MTU size: 1476
